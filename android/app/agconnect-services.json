@@ -1,0 +1,30 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"5190090000026360265",
+		"product_id":"736430079244651575",
+		"client_id":"461360120173954112",
+		"client_secret":"821B04C46A6879C6C87E248E4BA013D05193E8E5FD3DD38A796656ADFE9489A2",
+		"app_id":"102978589",
+		"package_name":"com.healthkitsuperdemorn",
+		"api_key":"CgB6e3x9O+xTBW0yR2kLfTGO2boKelxWKoR6OWIjEEwpbrTTn/eAkO+rtGEZeib6An7lkM6CDKqh+r1e/AhU+2TO"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dre.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
